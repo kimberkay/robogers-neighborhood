@@ -10,7 +10,7 @@
 * _CSS_
 * _Javascript_
 * _JQuery_
-*
+
 
 ## Description
 
@@ -25,7 +25,7 @@ __A web application for a user to input a number and recieve a little "Beep, Boo
 ## Describe: beepBoop ()
   _Test 1: It should return an array with 0 if the number 0 is inputted
   Code: for (beepBoop []);
-  Expected Output: 0
+  Expected Output: [0]
 
 _Test 2: It should return an array with 1,2,3,4,5 if user input number is 5
 Code: const userInput = 5;
@@ -48,7 +48,7 @@ Expected Outpu: ["beep"]
 
 ## Known Bugs
 
-* No known bugs
+* So many bugs. It doesn't work :(
 
 ## License
 
@@ -71,4 +71,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 _
 
 Copyright (c) _10/15/21_ _Kim Brannian_
-https://github.com/kimberkay/kim-brannian.git
+https://github.com/kimberkay/robogers-neighborhood.git
