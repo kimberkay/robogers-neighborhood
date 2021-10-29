@@ -1,23 +1,33 @@
-# _Kim Brannian Portfolio_
+# _Mr. Roboger's Neighborhood_
 
 #### By _**Kim Brannian**_
 
-#### _A website to present Kim Brannian as a developer_
+#### 
 
 ## Technologies Used
 
 * _HTML_
 * _CSS_
+* _Javascript_
+* _JQuery_
+*
 
 ## Description
 
-_This website allows users to view Kim Brannian's github portfolio and contact information. Got to https://kimberkay.github.io/kim-brannian/ to view it.
+__A web application for a user to input a number and recieve a little "Beep, Booop, Won't you be my neighbor?" if they enter a 1, 2, and 3 anywhere in their number._
 
 ## Setup/Installation Requirements
 
 * _Clone this repository to your desktop_
 * _Navigate to the index.html page_
 * _Open the page in your browser_
+
+## Describe: beepBoop ()
+  _Test: I should return an array with a 0 if the number 0 is inputted
+  Code: beepBoop();
+  Expected Output: 0
+
+  
 
 
 ## Known Bugs
