@@ -30,7 +30,14 @@ __A web application for a user to input a number and recieve a little "Beep, Boo
 _Test 2: It should return an array with 1,2,3,4,5 if user input number is 5
 Code: const userInput = 5;
       for (beepBoop [])
-Expected Output: [1,2,3,4,5]     
+Expected Output: [1,2,3,4,5]  
+
+_Test 3: It should return "beep" if user input number is 1
+Code:
+
+
+
+
 
  
 
