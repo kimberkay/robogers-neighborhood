@@ -33,7 +33,9 @@ Code: const userInput = 5;
 Expected Output: [1,2,3,4,5]  
 
 _Test 3: It should return "beep" if user input number is 1
-Code:
+Code: const userInput=1;
+      for (beepBop [])
+Expected Outpu: ["beep"]
 
 
 
