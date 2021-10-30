@@ -32,7 +32,7 @@ Code: const userInput = 5;
       for (beepBoop [])
 Expected Output: [1,2,3,4,5]  
 
-_Test 3: It should return "beep" if user input number is 1
+_Test 3: beMyNeighbor () It should return "beep" if user input number is 1
 Code: const userInput=1;
       for (beepBop [])
 Expected Outpu: ["beep"]
